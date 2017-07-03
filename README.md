@@ -1,2 +1,7 @@
 # Sist_comp
-TP
+
+TP Alarma
+
+Ferreiro, Martín
+Lazos, David
+Perez, Gastón
