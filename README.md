@@ -1,9 +1,9 @@
-# Sist_comp
+## Sist_comp
 
-TP Alarma
+#TP Alarma
 
-Ferreiro, Martín
+Ferreiro, MartÃ­n
 
 Lazos, David
 
-Perez, Gastón
+Perez, GastÃ³n
